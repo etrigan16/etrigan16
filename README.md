@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hola, soy Guille Fernandez
 
-<!--
-**etrigan16/etrigan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Infraestructura IT + Ciberseguridad + Coding Agents**
 
-Here are some ideas to get you started:
+Administro infraestructura IT en la Fuerza Aérea Argentina y construyo soluciones
+de seguridad que conectan redes, código e inteligencia artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Actualmente:
+- Administración de redes y seguridad en entorno de alta criticidad (+200 usuarios)
+- Automatización de infraestructura con Python + Coding Agents (OpenCode)
+- Licenciatura en Ciberseguridad (UNDEF FADENA)
+
+🚀 Proyectos destacados:
+| Proyecto | Descripción |
+|---|---|
+| [capacityAr](https://github.com/etrigan16/capacityAr) | Plataforma IA de brecha de habilidades (Scrum Master, nota 10) |
+| [satelite-ar](https://github.com/etrigan16/satelite-ar) | Portal de curación de datos satelitales (Next.js + NASA API) |
+
+🛠️ Stack: AD • pfSense • Python • FastAPI • React/Next.js • TypeScript • PostgreSQL • Docker • Wazuh • Kali Linux
+
+📫 [LinkedIn](https://linkedin.com/in/guillefernandez) · [Email](mailto:guillermofernandez16@gmail.com)
