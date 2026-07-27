@@ -17,6 +17,6 @@ de seguridad que conectan redes, código e inteligencia artificial.
 | [satelite-ar](https://github.com/etrigan16/satelite-ar) | Portal de curación de datos satelitales (Next.js + NASA API) |
 | [aukalabs](https://github.com/etrigan16/v0-cipher-ar) | Suite de ciberseguridad ofensiva para PYMES (FastAPI + React + IA) |
 
-🛠️ Stack: AD • pfSense • Python • FastAPI • React/Next.js • TypeScript • PostgreSQL • Docker • Wazuh • Kali Linux
+🛠️ Stack: AD • Python • FastAPI • React/Next.js • TypeScript • PostgreSQL • Docker • Wazuh • Kali Linux
 
 📫 [LinkedIn](https://linkedin.com/in/guillefernandez) · [Email](mailto:guillermofernandez16@gmail.com)
