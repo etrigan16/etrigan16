@@ -15,6 +15,7 @@ de seguridad que conectan redes, código e inteligencia artificial.
 |---|---|
 | [capacityAr](https://github.com/etrigan16/capacityAr) | Plataforma IA de brecha de habilidades (Scrum Master, nota 10) |
 | [satelite-ar](https://github.com/etrigan16/satelite-ar) | Portal de curación de datos satelitales (Next.js + NASA API) |
+| [aukalabs](https://github.com/etrigan16/v0-cipher-ar) | Suite de ciberseguridad ofensiva para PYMES (FastAPI + React + IA) |
 
 🛠️ Stack: AD • pfSense • Python • FastAPI • React/Next.js • TypeScript • PostgreSQL • Docker • Wazuh • Kali Linux
 
