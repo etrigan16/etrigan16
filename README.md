@@ -40,4 +40,4 @@ de seguridad que conectan redes, codigo e inteligencia artificial.
 📜 Certificaciones: Google Cloud Engineering (9) • Terraform on GCP • CCNA 3 •
 Red Hat RH124/RH134 • ISC2 CC Candidate
 
-📫 [LinkedIn](https://linkedin.com/in/guillefernandez) · [Email](mailto:guillermofernandez@gmail.com)
+📫 [LinkedIn](https://linkedin.com/in/guillefernandez) · [Email](mailto:guillermofernandez16@gmail.com)
